@@ -36,7 +36,8 @@ Eu sou Ricardo Carvalho, Sou programador full stack 💻, estou cursando a facul
   ![Elixir](https://img.shields.io/badge/-elixir-333333?style=flat&logo=elixir&logoColor=4d305f)
   ![Nest.JS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=ea2845)
   ![Kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes&logoColor=3069de)
-
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=45bf5f)
+  
 **Utilidades**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
